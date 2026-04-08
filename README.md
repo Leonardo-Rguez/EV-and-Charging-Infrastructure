@@ -52,6 +52,10 @@ The objective is to provide information regarding the electric vehicle populatio
 
 ### Overview
 
+<img width="767" height="433" alt="Overview" src="https://github.com/user-attachments/assets/d7dfefe7-594a-4734-90de-96a1a5103b80" />
+
+
+
 •	Period analyzed, 1999 – 2026 (first orders from 2026):
 
     o	Total EVs: 268931 vehicles.
@@ -69,6 +73,9 @@ The objective is to provide information regarding the electric vehicle populatio
 •	To charge the vehicles, there are 8410 charging ports distributed across 2910 stations.
 
 ### EV increase YoY BEV.
+
+<img width="767" height="419" alt="EV increase YoY BEV" src="https://github.com/user-attachments/assets/bc8a48c8-1d8e-4e6a-82d8-40ecb78606e9" />
+
 
 •	The BEV year-on-year increase chart analyzes the years 2011-2025 (previous years are not representative values), which could indicate that there is no stable growth in the period.
 
@@ -97,6 +104,9 @@ The objective is to provide information regarding the electric vehicle populatio
 •	The Top 10 PHEV brands represent 85.69% (46578 units) of the total 54354.
 
 ### Electric Range
+
+<img width="761" height="435" alt="Electric Range" src="https://github.com/user-attachments/assets/6ad0644b-a811-4547-ab09-7bb56c833845" />
+
 
 
 •	Greater electric range of BEVs (199.6) vs PHEV (31.6).
@@ -147,6 +157,9 @@ The objective is to provide information regarding the electric vehicle populatio
 
 
 ### Charging Stations Estimated EV Dec. 2025
+
+<img width="819" height="449" alt="Charging Stations Estimated EV Dec  2025" src="https://github.com/user-attachments/assets/b046203a-405c-4841-8e00-090b56859347" />
+
 
 
 •	The database includes 231 cities with a total of 2920 stations.
