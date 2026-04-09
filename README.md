@@ -31,6 +31,24 @@ Power Query
 DAX
 Fuente de datos (Excel/CSV)
 
+### Executive Summary
+
+The dataset presents the electric vehicle population in the State of Washington for the years spanning 1999 through 2026, as well as charging stations and ports for BEVs and PHEVs. The following points are highlighted:
+
+•	Market. BEVs overwhelmingly dominate the market, accounting for 79.8% of the 268,931 electric vehicles registered. BEV brands and models lead the market, capturing a share of nearly 60% in both categories.
+
+•	Stages. The entry of BEVs and PHEVs into the market occurred in distinct stages. Data indicate that there was no steady market growth between 2013 and 2023.
+
+•	Dominance. The Tesla brand dominates by a wide margin among battery electric vehicles (BEVs), while Toyota leads among plug-in hybrids (PHEVs), though not quite as decisively.
+
+•	Electric Range. The average range of BEVs is 199.6, with 62% (28,748 units) falling within the 201 to 300 range. The average range of PHEVs is 31.6, with 92.2% (50,099 units) falling within the 1 to 50 range.
+
+•	Eligibility. The CAFV eligibility rate for PHEVs is 55.6%, compared to 28.5% for BEVs.
+
+•	Projected Electric Vehicles for 2025. The average charging station saturation level (CSSL-EBEVs—charging stations per electric vehicle in the city) is 1.6%, which is insufficient to serve all electric vehicles in the state.
+
+•	Geolocation of charging stations. The distribution of charging stations does not guarantee that all electric vehicle owners in the state can access the service.
+
 ## Data visualization
 
 The objective is to provide information regarding the electric vehicle population in Washington State, as well as charging stations and points, using Power BI. The following pages are presented:
@@ -89,6 +107,9 @@ The objective is to provide information regarding the electric vehicle populatio
 
 ### EV increase YoY PHEV.
 
+<img width="812" height="452" alt="image" src="https://github.com/user-attachments/assets/84434944-d2ef-4afe-8ffd-e750823bae9d" />
+
+
 •	The graph showing the year-on-year increase in PHEVs, analyzing the years 2011-2025, could indicate that there is no stable growth during the period either.
 
 •	Stages determined by the number of PHEVs:
@@ -106,7 +127,6 @@ The objective is to provide information regarding the electric vehicle populatio
 ### Electric Range
 
 <img width="761" height="435" alt="Electric Range" src="https://github.com/user-attachments/assets/6ad0644b-a811-4547-ab09-7bb56c833845" />
-
 
 
 •	Greater electric range of BEVs (199.6) vs PHEV (31.6).
@@ -132,6 +152,8 @@ The objective is to provide information regarding the electric vehicle populatio
 
 
 ### Geolocation BEV & PHEV: Top 10 Counties
+
+<img width="816" height="452" alt="image" src="https://github.com/user-attachments/assets/37833eb4-6dc9-4cc7-b5ee-359b2aa29143" />
 
 
 •	There is a concentration of EVs in the state.
